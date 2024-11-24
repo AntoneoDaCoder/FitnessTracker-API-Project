@@ -1,0 +1,15 @@
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Application\bin\Debug\net8.0\FitnessTracker.Application.deps.json
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Application\bin\Debug\net8.0\FitnessTracker.Application.dll
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Application\bin\Debug\net8.0\FitnessTracker.Application.pdb
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Application\bin\Debug\net8.0\FitnessTracker.Core.dll
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Application\bin\Debug\net8.0\FitnessTracker.Core.pdb
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Application\obj\Debug\net8.0\FitnessTracker.Application.csproj.AssemblyReference.cache
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Application\obj\Debug\net8.0\FitnessTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Application\obj\Debug\net8.0\FitnessTracker.Application.AssemblyInfoInputs.cache
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Application\obj\Debug\net8.0\FitnessTracker.Application.AssemblyInfo.cs
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Application\obj\Debug\net8.0\FitnessTracker.Application.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Application\obj\Debug\net8.0\FitnessT.BE9B4996.Up2Date
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Application\obj\Debug\net8.0\FitnessTracker.Application.dll
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Application\obj\Debug\net8.0\refint\FitnessTracker.Application.dll
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Application\obj\Debug\net8.0\FitnessTracker.Application.pdb
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Application\obj\Debug\net8.0\ref\FitnessTracker.Application.dll
