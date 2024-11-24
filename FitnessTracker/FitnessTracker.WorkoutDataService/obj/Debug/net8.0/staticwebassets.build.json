@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BpIDmQ46ib+J9uqQU2zOmQkInR5UpxqXJ8TBUsmwNbI=",
+  "Source": "FitnessTracker.WorkoutDataService",
+  "BasePath": "_content/FitnessTracker.WorkoutDataService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

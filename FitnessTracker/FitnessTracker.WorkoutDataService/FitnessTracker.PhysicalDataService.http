@@ -1,0 +1,6 @@
+@FtinessTracker.PhysicalDataService_HostAddress = http://localhost:5058
+
+GET {{FtinessTracker.PhysicalDataService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
