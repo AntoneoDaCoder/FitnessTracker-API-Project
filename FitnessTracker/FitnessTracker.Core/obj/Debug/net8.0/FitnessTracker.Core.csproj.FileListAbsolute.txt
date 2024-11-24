@@ -1,0 +1,12 @@
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Core\bin\Debug\net8.0\FitnessTracker.Core.deps.json
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Core\bin\Debug\net8.0\FitnessTracker.Core.dll
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Core\bin\Debug\net8.0\FitnessTracker.Core.pdb
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Core\obj\Debug\net8.0\FitnessTracker.Core.csproj.AssemblyReference.cache
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Core\obj\Debug\net8.0\FitnessTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Core\obj\Debug\net8.0\FitnessTracker.Core.AssemblyInfoInputs.cache
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Core\obj\Debug\net8.0\FitnessTracker.Core.AssemblyInfo.cs
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Core\obj\Debug\net8.0\FitnessTracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Core\obj\Debug\net8.0\FitnessTracker.Core.dll
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Core\obj\Debug\net8.0\refint\FitnessTracker.Core.dll
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Core\obj\Debug\net8.0\FitnessTracker.Core.pdb
+C:\Users\Anton\Documents\Labs\5 сем\РиАТ\FitnessTracker\FitnessTracker.Core\obj\Debug\net8.0\ref\FitnessTracker.Core.dll
