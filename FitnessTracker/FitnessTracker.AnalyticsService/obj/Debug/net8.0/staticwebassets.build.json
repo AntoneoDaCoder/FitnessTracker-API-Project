@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vrzN86mzgmfp7FJ8BRK8Ly/46qm7EfnsO3GF38Flwxo=",
+  "Source": "FitnessTracker.AnalyticsService",
+  "BasePath": "_content/FitnessTracker.AnalyticsService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
