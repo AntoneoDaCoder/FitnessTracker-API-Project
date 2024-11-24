@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lvOCJzjimm+5SduQkQ9NQhf1+w8sHs+Zhjh6HvBEBT8=",
+  "Source": "FitnessTracker.AuthenticationService",
+  "BasePath": "_content/FitnessTracker.AuthenticationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
