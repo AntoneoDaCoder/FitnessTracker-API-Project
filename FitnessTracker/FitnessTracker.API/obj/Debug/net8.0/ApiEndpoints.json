@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "FitnessTracker.API.Controllers.GatewayController",
+    "Method": "LoginUserAsync",
+    "RelativePath": "api/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "FitnessTracker.Core.Models.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FitnessTracker.API.Controllers.GatewayController",
+    "Method": "RegisterUserAsync",
+    "RelativePath": "api/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDto",
+        "Type": "FitnessTracker.Core.Models.UserRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
